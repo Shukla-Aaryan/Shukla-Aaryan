@@ -1,7 +1,3 @@
-# AI Engineer GitHub Profile README Template
-
-Copy everything below into your `README.md` inside your GitHub profile repository.
-
 ---
 
 
@@ -155,34 +151,4 @@ NLP project for detecting sentiment from text data.
 > "Building intelligent systems that solve real-world problems."
 ```
 
----
 
-Replace the following placeholders:
-
-* `YOUR-USERNAME` → your GitHub username
-* `YOUR-LINKEDIN` → your LinkedIn profile URL
-* `YOUR-EMAIL` → your professional email
-
-This structure is designed to feel:
-
-* Recruiter-friendly
-* AI Engineer focused
-* Minimal but premium
-* Strong first impression
-* Technical but clean
-* Professional without looking crowded
-
-<!--
-**Shukla-Aaryan/Shukla-Aaryan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
