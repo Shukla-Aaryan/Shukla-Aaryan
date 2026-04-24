@@ -4,7 +4,7 @@ Copy everything below into your `README.md` inside your GitHub profile repositor
 
 ---
 
-```markdown
+
 <div align="center">
 
 # Hi, I'm Aaryan Shukla 👋
