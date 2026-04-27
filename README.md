@@ -1,65 +1,235 @@
 
+[README.md](https://github.com/user-attachments/files/27130737/README.md)
 
-<table border="0" width="100%">
-  <tr border="0">
-    <td width="50%" valign="top" border="0">
-      <h1 style="color: #ffffff;">Hi, I'm Aaryan Shukla</h1>
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=BD56FB&width=435&lines=AI+Engineer" alt="Glowing Header" />
-      <p>Building intelligent systems with Machine Learning,<br>NLP, and LLMs to solve <span style="color: #BD56FB;"><b>real-world problems.</b></span></p>
-      <br />
-      <img src="https://img.shields.io/badge/%20AI%20%26%20ML-121212?style=for-the-badge&logo=probot&logoColor=BD56FB" /> 
-      <img src="https://img.shields.io/badge/%20NLP%20%26%20LLMs-121212?style=for-the-badge&logo=openai&logoColor=BD56FB" /> 
-      <img src="https://img.shields.io/badge/%20Data--Driven-121212?style=for-the-badge&logo=databricks&logoColor=BD56FB" />
-      <br /><br />
-      <a href="#"><img src="https://img.shields.io/badge/Portfolio-121212?style=flat&logo=google-chrome&logoColor=white" /></a>
-      <a href="#"><img src="https://img.shields.io/badge/LinkedIn-121212?style=flat&logo=linkedin&logoColor=white" /></a>
-      <a href="#"><img src="https://img.shields.io/badge/Email-121212?style=flat&logo=gmail&logoColor=white" /></a>
-    </td>
-    <td width="50%" valign="top" border="0">
-      <img src="https://github-readme-terminal.vercel.app/api?name=aaryan@ai-engineer&user=YOUR_USERNAME&skills=Machine%20Learning:99,Deep%20Learning:99,NLP:98,Python:95,LLMs%20%26%20RAG:95,Data%20Engineering:75&theme=tokyonight" width="100%" />
-    </td>
-  </tr>
-</table>
 
-<br />
+<!-- HEADER BANNER -->
+<div align="center">
 
-<table border="0" width="100%">
-  <tr border="0">
-    <td width="50%" valign="top" border="0">
-      <h3 style="color: #BD56FB;">> About Me</h3>
-      <p>🎓 MSc in Artificial Intelligence</p>
-      <p>💡 Passionate about building end-to-end AI products</p>
-      <p>🛰️ Currently exploring LLMs, RAG, and AI Agents</p>
-      <p>⚡ Fun fact: I debug models like others debug code</p>
-    </td>
-    <td width="50%" valign="top" border="0">
-      <h3 style="color: #BD56FB;">> Tech Stack</h3>
-      <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,langchain,huggingface,sklearn,pandas,docker,fastapi,postgres&theme=dark" />
-    </td>
-  </tr>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:6e40c9,100:0d0d0d&height=200&section=header&text=Aaryan%20Shukla&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20in%20Progress&descAlignY=60&descSize=20&descColor=a78bfa&animation=fadeIn" width="100%" />
+
+</div>
+
+<!-- TYPING ANIMATION -->
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=true&width=600&height=80&lines=AI+Engineer+%7C+ML+%7C+NLP+%7C+LLMs;Building+Intelligent+Systems+%F0%9F%A4%96;Passionate+about+AI+%26+Real-World+Solutions)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+<!-- ABOUT ME + TERMINAL BLOCK -->
+<table align="center" width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 👾 About Me
+
+```python
+class AaryanShukla:
+    name     = "Aaryan Shukla"
+    role     = "AI Engineer in Progress"
+    location = "India 🇮🇳"
+    
+    interests = [
+        "Artificial Intelligence",
+        "End-to-End AI Products",
+        "LLMs & AI Agents"
+    ]
+    
+    current   = "Exploring LLMs & AI Agents"
+    fun_fact  = "I debug models like others debug code"
+```
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 Skills
+
+```text
+Machine Learning   ████████████████░   90%
+Deep Learning      ███████████████░░   85%
+NLP                ████████████████░   90%
+Python             █████████████████   95%
+LLMs               ██████████████░░░   80%
+Data Engineering   ████████████████░   75%
+```
+
+</td>
+</tr>
 </table>
 
 ---
 
-<h3 style="color: #BD56FB;">> GitHub Stats</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" width="48%" />
-</p>
+<!-- TECH STACK -->
+### 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=tokyonight" width="48%" />
-</p>
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-0d0d0d?style=for-the-badge&logo=python&logoColor=A78BFA)
+![PyTorch](https://img.shields.io/badge/PyTorch-0d0d0d?style=for-the-badge&logo=pytorch&logoColor=A78BFA)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0d0d0d?style=for-the-badge&logo=tensorflow&logoColor=A78BFA)
+![LangChain](https://img.shields.io/badge/LangChain-0d0d0d?style=for-the-badge&logo=chainlink&logoColor=A78BFA)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-0d0d0d?style=for-the-badge&logo=huggingface&logoColor=A78BFA)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-0d0d0d?style=for-the-badge&logo=scikitlearn&logoColor=A78BFA)
+![Pandas](https://img.shields.io/badge/Pandas-0d0d0d?style=for-the-badge&logo=pandas&logoColor=A78BFA)
+![Docker](https://img.shields.io/badge/Docker-0d0d0d?style=for-the-badge&logo=docker&logoColor=A78BFA)
+![FastAPI](https://img.shields.io/badge/FastAPI-0d0d0d?style=for-the-badge&logo=fastapi&logoColor=A78BFA)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d0d0d?style=for-the-badge&logo=postgresql&logoColor=A78BFA)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-0d0d0d?style=for-the-badge&logo=databricks&logoColor=A78BFA)
+![OpenAI](https://img.shields.io/badge/OpenAI-0d0d0d?style=for-the-badge&logo=openai&logoColor=A78BFA)
+
+</div>
 
 ---
 
-<h3 style="color: #BD56FB;">> Let's Connect</h3>
-<p>I'm always open to collaborating on exciting AI projects and discussing new opportunities!</p>
-<p align="left">
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+<!-- FEATURED PROJECTS -->
+### 🚀 Featured Projects
 
+<div align="center">
 
+<table>
+<tr>
+<td align="center" width="33%">
+
+**🤖 RAG Chatbot**
+<br/>
+Local LLM chatbot using RAG, LangChain & ChromaDB
+<br/><br/>
+![Python](https://img.shields.io/badge/-Python-0d0d0d?style=flat-square&logo=python&logoColor=A78BFA)
+![LangChain](https://img.shields.io/badge/-LangChain-0d0d0d?style=flat-square&logo=chainlink&logoColor=A78BFA)
+![ChromaDB](https://img.shields.io/badge/-ChromaDB-0d0d0d?style=flat-square&logo=databricks&logoColor=A78BFA)
+<br/>
+⭐ 128 &nbsp; 🍴 26
+
+</td>
+<td align="center" width="33%">
+
+**🎬 Movie Recommender**
+<br/>
+Content-based movie recommender using cosine similarity
+<br/><br/>
+![Python](https://img.shields.io/badge/-Python-0d0d0d?style=flat-square&logo=python&logoColor=A78BFA)
+![Scikit-learn](https://img.shields.io/badge/-Sklearn-0d0d0d?style=flat-square&logo=scikitlearn&logoColor=A78BFA)
+![Pandas](https://img.shields.io/badge/-Pandas-0d0d0d?style=flat-square&logo=pandas&logoColor=A78BFA)
+<br/>
+⭐ 94 &nbsp; 🍴 18
+
+</td>
+<td align="center" width="33%">
+
+**📧 Spam Classifier**
+<br/>
+NLP-based SMS spam classifier with 99%+ accuracy
+<br/><br/>
+![Python](https://img.shields.io/badge/-Python-0d0d0d?style=flat-square&logo=python&logoColor=A78BFA)
+![NLP](https://img.shields.io/badge/-NLP-0d0d0d?style=flat-square&logo=google&logoColor=A78BFA)
+![Sklearn](https://img.shields.io/badge/-Sklearn-0d0d0d?style=flat-square&logo=scikitlearn&logoColor=A78BFA)
+<br/>
+⭐ 87 &nbsp; 🍴 7
+
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+
+**🖼️ Image Classifier**
+<br/>
+CNN model for image classification with high performance
+<br/><br/>
+![PyTorch](https://img.shields.io/badge/-PyTorch-0d0d0d?style=flat-square&logo=pytorch&logoColor=A78BFA)
+![Python](https://img.shields.io/badge/-Python-0d0d0d?style=flat-square&logo=python&logoColor=A78BFA)
+<br/>
+⭐ 76 &nbsp; 🍴 13
+
+</td>
+<td align="center" width="33%">
+
+**🧠 AI Agent**
+<br/>
+Autonomous AI agent with tools, memory & reasoning
+<br/><br/>
+![LangChain](https://img.shields.io/badge/-LangChain-0d0d0d?style=flat-square&logo=chainlink&logoColor=A78BFA)
+![OpenAI](https://img.shields.io/badge/-OpenAI-0d0d0d?style=flat-square&logo=openai&logoColor=A78BFA)
+<br/>
+⭐ 64 &nbsp; 🍴 11
+
+</td>
+<td align="center" width="33%">
+
+**➕ More Projects**
+<br/>
+Check out all my repositories for more AI/ML work
+<br/><br/>
+[![View All](https://img.shields.io/badge/View%20All%20Repos-%E2%86%92-A78BFA?style=flat-square&labelColor=0d0d0d)](https://github.com/AaryanShukla?tab=repositories)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<!-- GITHUB STATS -->
+### 📈 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AaryanShukla&show_icons=true&theme=tokyonight&bg_color=0d0d0d&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&border_color=6e40c9&hide_border=false&rank_icon=github" />
+&nbsp;&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AaryanShukla&layout=compact&theme=tokyonight&bg_color=0d0d0d&title_color=a78bfa&text_color=ffffff&border_color=6e40c9" />
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=AaryanShukla&theme=tokyonight&background=0d0d0d&border=6e40c9&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AaryanShukla&bg_color=0d0d0d&color=a78bfa&line=6e40c9&point=ffffff&area=true&hide_border=false)
+
+</div>
+
+---
+
+<!-- TROPHIES -->
+### 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=AaryanShukla&theme=tokyonight&column=6&margin-w=10&margin-h=10&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+<!-- CONNECT -->
+### 🤝 Let's Connect
+
+<div align="center">
+
+I'm always open to collaborating on exciting AI projects and discussing new opportunities!
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=A78BFA)](https://linkedin.com/in/AaryanShukla)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d0d0d?style=for-the-badge&logo=vercel&logoColor=A78BFA)](https://yourportfolio.com)
+[![Email](https://img.shields.io/badge/Email-0d0d0d?style=for-the-badge&logo=gmail&logoColor=A78BFA)](mailto:your@email.com)
+[![Twitter](https://img.shields.io/badge/Twitter-0d0d0d?style=for-the-badge&logo=x&logoColor=A78BFA)](https://twitter.com/AaryanShukla)
+
+</div>
+
+---
+
+<!-- FOOTER -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:6e40c9,100:0d0d0d&height=120&section=footer&animation=fadeIn" width="100%" />
+
+![Profile Views](https://komarev.com/ghpvc/?username=AaryanShukla&color=6e40c9&style=flat-square&label=Profile+Views)
+
+</div>
