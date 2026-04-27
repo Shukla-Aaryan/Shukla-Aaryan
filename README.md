@@ -1,8 +1,4 @@
-# Premium AI Engineer GitHub README (Inspired by the First Design)
 
-Paste the following directly into your GitHub profile `README.md`.
-
-````markdown
 <div align="center">
 
 # Hi, I'm Aaryan Shukla
