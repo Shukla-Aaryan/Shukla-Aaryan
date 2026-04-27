@@ -1,12 +1,10 @@
-<div align="right">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=BD56FB&style=flat" alt="Views" />
-</div>
+
 
 <table border="0" width="100%">
   <tr border="0">
     <td width="50%" valign="top" border="0">
       <h1 style="color: #ffffff;">Hi, I'm Aaryan Shukla</h1>
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=BD56FB&width=435&lines=AI+Engineer+in+Progress" alt="Glowing Header" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=BD56FB&width=435&lines=AI+Engineer" alt="Glowing Header" />
       <p>Building intelligent systems with Machine Learning,<br>NLP, and LLMs to solve <span style="color: #BD56FB;"><b>real-world problems.</b></span></p>
       <br />
       <img src="https://img.shields.io/badge/%20AI%20%26%20ML-121212?style=for-the-badge&logo=probot&logoColor=BD56FB" /> 
